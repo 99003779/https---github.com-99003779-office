@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include<stdarg.h>
+#include"myutils.h"
 
 // Function to find factorial of given number 
 int factorial(int n) 
