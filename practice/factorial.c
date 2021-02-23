@@ -23,6 +23,7 @@ error_t find_factorial(int num, long* result)
             *result *= num--;
         }
         return SUCCESS; //hghghg
+        return SUCCESS; //hghghg
     }
     
 }
